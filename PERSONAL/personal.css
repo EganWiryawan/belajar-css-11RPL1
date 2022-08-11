@@ -1,0 +1,28 @@
+*,html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(gan.jpg); 
+    background-size: cover;
+}
+h1,h2,h3,p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.centerbox{
+    width: 550px;
+    border: 1px solid rgb(216, 206, 241);
+    padding: 20px;
+    margin: 0px auto;
+    margin-top: 10px;
+    background: rgba(0, 0, 0, 0);
+}
+.avatar img{
+    border-radius: 50%;
+}
+
+.social a i{
+    margin: 5px;
+}
